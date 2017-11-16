@@ -22,7 +22,7 @@
 
   &,
   &:visited {
-    color: $white-color;
+    color: $grey-color-light;
   }
 }
 
@@ -108,7 +108,6 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
 }
 
@@ -180,6 +179,7 @@
 .page-content {
   padding: $spacing-unit 0;
 
+  
 }
 
 .page-heading {
@@ -226,6 +226,9 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  background-color: $white-color;
+  opacity: 0.6;
+  padding: 20px;
 
   h2 {
     @include relative-font-size(2);
