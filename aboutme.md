@@ -2,6 +2,8 @@
 layout: page
 title: About Me
 permalink: /aboutme/
+img:
+  src: /images/img.jpg
 ---
 
 ![Animal](/images/img.jpg)

@@ -6,6 +6,8 @@ date:   2017-11-15 04:37:11 -0600
 categories: jekyll update
 permalink: /robotstxt/
 comments: true
+img:
+  src: /images/robotstxt.png
 ---
 ![robots.txt](/images/robotstxt.png)
 
