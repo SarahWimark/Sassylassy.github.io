@@ -5,6 +5,7 @@ author: Sara V
 date:   2017-11-15 04:37:11 -0600
 categories: jekyll update
 permalink: /humanstxt/
+comments: true
 ---
 
 Adding the file humans.txt to your project is a way to give information about the people that has contributed in building the website. 
