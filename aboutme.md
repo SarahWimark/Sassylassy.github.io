@@ -6,7 +6,7 @@ img:
   src: /images/img.jpg
 ---
 
-![Animal](/images/me.jpg)
+![Me](/images/me.jpg)
 
 My name is Sarah and i´m 37 years old and live in a small town called Kävlinge in southern Sweden with my dog and partner. I work nigths as an assistant nurse at a retirement home and have been in that proffession for 17 years so about time to try something new. 
 
